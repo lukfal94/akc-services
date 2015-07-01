@@ -14,12 +14,6 @@
 		include_once("header.php");
 	?>
 
-	<div class="jumbotron">
-		<div class="container">
-			Welcome!
-		</div>
-	</div>
-
 	<script type="text/javascript">
     	$(document).ready(function() {
     		$('.nav.navbar-nav li:nth-child(1)').addClass("active");
