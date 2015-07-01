@@ -16,7 +16,7 @@
 	
 	<div class="col-md-8 col-md-offset-2" style="margin-top: 100px" id="wrapper">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-sm-6">
 				<h3>What are Our Services?</h3>
 				<p class="well" style="min-height: 150px;">
 					As you one-stop commercial cleaning company, we offer a wide variety of services to take care of all you janitorial needs. To maintain our vision of a one-stop cleaning company, we offer the following services:
@@ -32,7 +32,7 @@
 					<li class="list-group-item">Construction Cleanup</li>
 				</ul>
 			</div>
-			<div class="col-md-6">
+			<div class="col-sm-6">
 				<h3>Who are Our Clients?</h3>
 				<p class="well" style="min-height: 150px;">
 					At AKC Services, our highest priority is making sure your business or office place is always looking its best. We strive to ensure a safe, clean area for both your customers and employees. We cater to a wide variety of business and workplaces including:
