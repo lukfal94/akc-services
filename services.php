@@ -13,7 +13,24 @@
 	<?php
 		include_once("header.php");
 	?>
-	<h1></h1>
+	
+	<div class="col-md-8 col-md-offset-2" style="margin-top: 100px" id="wrapper">
+		<div class="row">
+			<div class="col-md-6">
+				<h2>What are Our Services?</h2>
+				<p class="well">
+					Description of Services
+				</p>
+			</div>
+			<div class="col-md-6">
+				<h2>Who are Our Clients?</h2>
+				<p class="well">
+					Description of Services
+				</p>
+			</div>
+		</div>
+	</div>
+
 
 	<script type="text/javascript">
     	$(document).ready(function() {

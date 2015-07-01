@@ -15,8 +15,14 @@
 	?>
 
 	<div class="col-md-8 col-md-offset-2" style="margin-top: 100px" id="wrapper">
-		<div class="col-md-6">Left Column</div>
-		<div class="col-md-6">Right Column</div>
+		<div class="row">
+			<div class="col-md-6">
+				Left Column
+			</div>
+			<div class="col-md-6">
+				Right Column
+			</div>
+		</div>
 	</div>
 
 	<script type="text/javascript">
