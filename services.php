@@ -29,6 +29,31 @@
 				</p>
 			</div>
 		</div>
+		<div class="row">
+			<div class="col-md-6">
+				<ul class="list-group">
+					<li class="list-group-item">General Janitorial</li>
+					<li class="list-group-item">Office Cleaning</li>
+					<li class="list-group-item">Carpet Cleaning</li>
+					<li class="list-group-item">Floor Stripping & Waxing</li>
+					<li class="list-group-item">Floor Maintenance & Buffing</li>
+					<li class="list-group-item">Window Cleaning</li>
+					<li class="list-group-item">Construction Cleanup</li>
+				</ul>
+			</div>
+			<div class="col-md-6">
+				<ul class="list-group">
+					<li class="list-group-item">Office Buildings</li>
+					<li class="list-group-item">Industrial Facilities</li>
+					<li class="list-group-item">Medical & Dental Facilities</li>
+					<li class="list-group-item">Professional Practices</li>
+					<li class="list-group-item">Banks</li>
+					<li class="list-group-item">Car Dealerships</li>
+					<li class="list-group-item">Schools & Churches</li>
+					<li class="list-group-item">Foreclosures</li>
+				</ul>
+			</div>
+		</div>
 	</div>
 
 
