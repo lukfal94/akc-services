@@ -14,6 +14,14 @@
 		include_once("header.php");
 	?>
 	<h1></h1>
+
+
+	<script type="text/javascript">
+    	$(document).ready(function() {
+    		$('.nav.navbar-nav li:nth-child(1)').addClass("active");
+    	});
+    </script>
+
 </body>
 
 
