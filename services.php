@@ -18,19 +18,10 @@
 		<div class="row">
 			<div class="col-md-6">
 				<h3>What are Our Services?</h3>
-				<p class="well">
+				<p class="well" style="min-height: 300px;">
 					As you one-stop commercial cleaning company, we offer a wide variety of services to take care of all you janitorial needs. To maintain our vision of a one-stop cleaning company, we offer the following services:
 				</p>
-			</div>
-			<div class="col-md-6">
-				<h3>Who are Our Clients?</h3>
-				<p class="well">
-					At AKC Services, our highest priority is making sure your business or office place is always looking its best. We strive to ensure a safe, clean area for both your customers and employees. We cater to a wide variety of business and workplaces including:
-				</p>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-6">
+
 				<ul class="list-group">
 					<li class="list-group-item">General Janitorial</li>
 					<li class="list-group-item">Office Cleaning</li>
@@ -42,6 +33,11 @@
 				</ul>
 			</div>
 			<div class="col-md-6">
+				<h3>Who are Our Clients?</h3>
+				<p class="well" style="min-height: 300px;">
+					At AKC Services, our highest priority is making sure your business or office place is always looking its best. We strive to ensure a safe, clean area for both your customers and employees. We cater to a wide variety of business and workplaces including:
+				</p>
+
 				<ul class="list-group">
 					<li class="list-group-item">Office Buildings</li>
 					<li class="list-group-item">Industrial Facilities</li>
