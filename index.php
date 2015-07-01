@@ -13,8 +13,12 @@
 	<?php
 		include_once("header.php");
 	?>
-	<h1></h1>
 
+	<div class="jumbotron">
+		<div class="container">
+			Welcome!
+		</div>
+	</div>
 
 	<script type="text/javascript">
     	$(document).ready(function() {
