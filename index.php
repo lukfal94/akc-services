@@ -14,6 +14,11 @@
 		include_once("header.php");
 	?>
 
+	<div class="col-md-8 col-md-offset-2" style="margin-top: 100px" id="wrapper">
+		<div class="col-md-6">Left Column</div>
+		<div class="col-md-6">Right Column</div>
+	</div>
+
 	<script type="text/javascript">
     	$(document).ready(function() {
     		$('.nav.navbar-nav li:nth-child(1)').addClass("active");
