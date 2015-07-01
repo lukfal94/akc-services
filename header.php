@@ -8,7 +8,7 @@
 				<span class="icon-bar"></span>
 			</button>
 			<a class="navbar-brand" href="index.php">
-				<img style="width: 10%; height: auto;"src="images/AKC_Logo1.png">
+				<img style="height: 100%; width: auto;"src="images/AKC_Logo1.png">
 			</a>
 		</div>
 
