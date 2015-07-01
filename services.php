@@ -22,14 +22,14 @@
 					As you one-stop commercial cleaning company, we offer a wide variety of services to take care of all you janitorial needs. To maintain our vision of a one-stop cleaning company, we offer the following services:
 				</p>
 
-				<ul class="list-group">
-					<li class="list-group-item">General Janitorial</li>
-					<li class="list-group-item">Office Cleaning</li>
-					<li class="list-group-item">Carpet Cleaning</li>
-					<li class="list-group-item">Floor Stripping & Waxing</li>
-					<li class="list-group-item">Floor Maintenance & Buffing</li>
-					<li class="list-group-item">Window Cleaning</li>
-					<li class="list-group-item">Construction Cleanup</li>
+				<dive class="list-group">
+					<a href="#" class="list-group-item">General Janitorial</a>
+					<a href="#" class="list-group-item">Office Cleaning</a>
+					<a href="#" class="list-group-item">Carpet Cleaning</a>
+					<a href="#" class="list-group-item">Floor Stripping & Waxing</a>
+					<a href="#" class="list-group-item">Floor Maintenance & Buffing</a>
+					<a href="#" class="list-group-item">Window Cleaning</a>
+					<a href="#" class="list-group-item">Construction Cleanup</a>
 				</ul>
 			</div>
 			<div class="col-sm-6">
